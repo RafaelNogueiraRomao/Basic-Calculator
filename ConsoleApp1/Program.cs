@@ -37,7 +37,7 @@ namespace ConsoleApp1
             }
             else if (op == "*")
             {
-                Console.WriteLine("Te result is: " + num1 * num2);
+                Console.WriteLine("The result is: " + num1 * num2);
             }
             else
             {
