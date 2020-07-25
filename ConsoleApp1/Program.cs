@@ -41,7 +41,7 @@ namespace ConsoleApp1
             }
             else
             {
-                Console.WriteLine("Invalid Operator");
+                Console.WriteLine("Invalid Operator Try Again");
             }
 
             Console.ReadLine();
