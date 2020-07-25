@@ -15,7 +15,7 @@ namespace ConsoleApp1
             Console.Write("Enter a number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Enter Operator");
+            Console.Write("Enter Operator: ");
             string op = Console.ReadLine();
 
             Console.Write("Enter a number: ");
